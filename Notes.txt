@@ -1,4 +1,4 @@
-Azure Boards - Like JIRA board
+Azure Boards - Like JIRA board - Org > Proj > Repos > Pipelines
 Azure Pipelines
 Azure Repos
 Azure Test Plans
