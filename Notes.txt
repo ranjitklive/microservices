@@ -1,5 +1,11 @@
 Azure Boards - Like JIRA board - Org > Proj > Repos > Pipelines
+Projects > Sprints > Epics > Stories
+Agent Pools run Pipelines
+
 Azure Pipelines
-Azure Repos
+
+Azure Repos - source code resides here, based on GIT, pull requests, feature branches
+
 Azure Test Plans
+
 Azure Artifacts
